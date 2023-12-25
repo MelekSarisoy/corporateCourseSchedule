@@ -1,3 +1,3 @@
 # BSM201 Proje
 # Proje Konusu: Kurumsal Ders Planı Uygulaması
-# Ekip Üyesi: Sümeyye Bire(210101028)
+# Ekip Üyeleri: Sümeyye Bire(210101028) & Melek Sarısoy(210101062)
